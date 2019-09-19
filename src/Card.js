@@ -3,7 +3,7 @@ import React from 'react';
 const Card = ({ name, email, id }) => {
     return ( 
         // can only return one element
-        <div className='tc bg-white dib br3 pa3 ma2 grow bw2 shadow-5'>
+        <div class="card" className='tc bg-white dib br2 pa3 ma3 ha 32'>
             <img src={`https://robohash.org/${id}?200x200`} alt='robots'></img>
             <div>
                <h2>{name}</h2> 
