@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactFilter/static/css/main.ef124c2d.chunk.css",
+    "main.js": "/ReactFilter/static/js/main.6b408c10.chunk.js",
+    "main.js.map": "/ReactFilter/static/js/main.6b408c10.chunk.js.map",
+    "runtime~main.js": "/ReactFilter/static/js/runtime~main.ed748840.js",
+    "runtime~main.js.map": "/ReactFilter/static/js/runtime~main.ed748840.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/ReactFilter/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.edcc0987.chunk.js": "/ReactFilter/static/js/2.edcc0987.chunk.js",
+    "static/js/2.edcc0987.chunk.js.map": "/ReactFilter/static/js/2.edcc0987.chunk.js.map",
+    "index.html": "/ReactFilter/index.html",
+    "precache-manifest.9fc90823cb27e57e4c35546b500cce97.js": "/ReactFilter/precache-manifest.9fc90823cb27e57e4c35546b500cce97.js",
+    "service-worker.js": "/ReactFilter/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/ReactFilter/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.ef124c2d.chunk.css.map": "/ReactFilter/static/css/main.ef124c2d.chunk.css.map"
+  }
+}
