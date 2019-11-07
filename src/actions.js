@@ -16,4 +16,4 @@ export const requestRobots = () => (dispatch) => { //higer order function: funct
     })
 }
 //intakes text, returns object w/ type changesearchfield and sends the input as payload
-//action -> constants -> reducers -> store (object) -> react changes
+//action -> middleware -> constants -> reducers -> store (object) -> react changes
